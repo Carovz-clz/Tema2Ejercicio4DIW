@@ -1,0 +1,40 @@
+header, aside, main, footer {
+    border: 1px solid black;
+}
+
+#container{
+    width: 90%;
+    margin: auto;
+    border: 1px solid blue;
+    overflow: hidden;
+}
+
+header{
+    margin: auto;
+    margin: .5em;
+    padding: 1em;
+    text-align: center;
+}
+
+aside{
+    float: left;
+    width: 15%;
+    height: 15%;
+    clear:both;
+    margin: .5em;
+    padding: 3em;
+}
+
+main{
+    float: right;
+    width: 60%;
+    height: 100%;
+    margin: .5em;
+    padding: 4em;
+}
+footer{
+    clear: both;
+    margin: .5em;
+    text-align: center;
+    padding: 1em;
+}
