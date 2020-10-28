@@ -4,7 +4,7 @@
 }
 
 #container{
-    max-width: 90%;
+    max-width: 80%;
     min-width: 50%;
     margin: auto;
     overflow: hidden;
@@ -20,7 +20,7 @@ header{
 aside{
     float: left;
     width: 20%;
-    height: 30%;
+    height: 40%;
     max-width: 20%;
     max-height: 400px;  
     margin-right: 2%;
